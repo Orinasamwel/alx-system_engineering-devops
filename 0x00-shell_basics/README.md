@@ -1,1 +1,2 @@
-second shell basics file
+#!/bin/bash
+second read me file
