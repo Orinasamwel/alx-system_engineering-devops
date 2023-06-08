@@ -1,2 +1,2 @@
-#!/bib/bash
-chmod +111 hello
+#!/bin/bash
+chmod ugo+x hello
